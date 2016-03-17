@@ -1,0 +1,17 @@
+{
+  "name": "mpulse-api-client",
+  "description": "mPulse api client that makes charts from big date ranges",
+  "dependencies": {
+    "capitalize": "^1.0.0",
+    "json2csv": "^3.0.0",
+    "math-statistics": "^1.2.0",
+    "node-calendar": "^0.1.4",
+    "path-is-absolute": "^1.0.0",
+    "yargs": "^3.29.0"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "clone": "^1.0.2",
+    "mocha": "*"
+  }
+}

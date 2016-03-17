@@ -1,0 +1,15 @@
+{
+  "apiKeysFilePath": "./apiKeys.json",
+  "credentialsFilePath": "/Users/CoolUser/private/mpulse/credentials.json",
+  "tokenFilePath": "/Users/CoolUser/private/mpulse/token.txt",
+  "defaultOptions": {
+    "outputType": "csv",
+    "percentile": 50,
+    "pivotDate": "2015-09-30",
+    "queryType": "summary",
+    "storeCode": "FOO",
+    "timer": "PageLoad"
+  },
+  "outputDirectory": "./output",
+  "tokenTimeToLive": 17999995
+}
